@@ -18,5 +18,5 @@ It identifies whether a message is spam or not using NLP techniques.
 - Naive Bayes Classifier
 
 ## Author
-Apoorv Yadav# spam-message-detection
+Aman dhiman# spam-message-detection
 machine learning
